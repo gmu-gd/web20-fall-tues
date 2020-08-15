@@ -1,0 +1,25 @@
+I"\<h3 id="description">Description</h3>
+
+<p>The structure of a website is as equally important as the design of a website. Getting from page X to page Y needs to be intuitive and simple. This structure also needs to be reflected on the back end. Create a site that takes the user through a narrative using text, links, and multiple pages.</p>
+
+<p><strong>PART 1 - CHOOSE THE TEXT</strong> Pick a text that can be broken into parts (pagaraphs, sentences, words, etc.). The text can be something straight forward like a news article or more abstract like a poem. The text needs to be long enough to be broken into at least 10 pages.</p>
+
+<p><strong>PART 2 - BUILD THE SITE</strong> Now weave these distinct units together using many html pages and links. Allow for user choice, branching structures, loops, etc. The linking does not have to follow a linear sequence. See if you can produce new readings and ways of traversing your composition. When linking different parts of the composition together, think of the meaning of each link. Are they linking between similar content? Similar characters? Similar actions? Are the meaning of links consistent across all of your pages? Do you have different types of links? How could these different types of links be indicated? Remember that you cannot add words to the text, the links you create must exist in the original words.</p>
+
+<p>You may include additional materials in the webpages if they add meaning to your sequences of links.</p>
+
+<h4 id="requirements">Requirements</h4>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">title</code> element with relevant content</li>
+  <li>a page title using a heading element</li>
+  <li>20 questions and answers</li>
+</ul>
+
+<h3 id="milestones">Milestones</h3>
+<p>JANUARY 28 Start
+FEBRUARY 4 Text Chosen
+FEBRUARY 11 First Full Draft
+FEBRUARY 18 Second Full Draft
+FEBRUARY 25 Due</p>
+:ET

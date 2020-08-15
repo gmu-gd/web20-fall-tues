@@ -1,0 +1,333 @@
+I"c)<h3 id="week-1-825">Week 1 [8.25]</h3>
+<p>This week we’ll start to get to know a bit about each other and spend a little time reviewing how this course will work. Then we’ll move onto an overview of the programs, tools, and languages we will be using. We will also look at a few basic HTML elements and build a web page.</p>
+
+<h4 id="lessons">Lessons</h4>
+<ul>
+  <li>1.1: Introduction</li>
+  <li>1.2: Basic HTML</li>
+</ul>
+
+<h4 id="exercises">Exercises</h4>
+<ul>
+  <li>E1: <a href="/projects#e1">20 Questions</a></li>
+</ul>
+
+<h4 id="project">Project</h4>
+<ul>
+  <li>P1: <a href="/projects/p1">Start</a></li>
+</ul>
+
+<h4 id="digital-references">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 1–5</a></li>
+  <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/introduction/">Introduction</a> &amp; <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Basic Web Pages</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-2-91">Week 2 [9.1]</h3>
+<p>This week we will take a look at the primary visual structure of the web, grids. We will learn about creating our own grids and how to use those grids to layout content. We will also go over the concept of space as it relates to design.</p>
+
+<h4 id="lessons-1">Lessons</h4>
+<ul>
+  <li>2.1: Grids &amp; Spacing</li>
+</ul>
+
+<h4 id="exercises-1">Exercises</h4>
+<ul>
+  <li>E2: <a href="/projects#e2">Make the Grid</a></li>
+  <li>E3: <a href="/projects#e13">Programmer and Computer</a></li>
+</ul>
+
+<h4 id="project-1">Project</h4>
+<ul>
+  <li>P1.1: Text chosen</li>
+</ul>
+
+<h4 id="digital-references-1">Digital References</h4>
+
+<hr />
+
+<h3 id="week-3-98">Week 3 [9.8]</h3>
+<p>This week we’ll go a little further into HTML and begin to introduce CSS. We will look at best practices for folder and file naming, organization, and structure as well as the first steps of planning and designing a website. We will also introduce the thing that makes the internet the internet, links.</p>
+
+<h4 id="lessons-2">Lessons</h4>
+<ul>
+  <li>3.1: Organization, Naming, and Planning</li>
+  <li>3.2: Links</li>
+  <li>3.3: External Style Sheets</li>
+</ul>
+
+<h4 id="exercises-2">Exercises</h4>
+<ul>
+  <li>E4: <a href="/projects#e3">Organization and Naming</a></li>
+  <li>E5: <a href="/projects#e4">Site Map</a></li>
+  <li>E6: <a href="/projects#e5">Wireframes</a></li>
+</ul>
+
+<h4 id="project-2">Project</h4>
+<ul>
+  <li>P1.2: Content marked up in 10 pages</li>
+</ul>
+
+<h4 id="digital-references-2">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 6. 11, 12, &amp; 13</a></li>
+  <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Links and Images</a> &amp; <a href="https://www.internetingishard.com/html-and-css/hello-css/">Hello CSS</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-4-915">Week 4 [9.15]</h3>
+<p>This week we are going to catch our breath and review what we talked about in the previous weeks.</p>
+
+<h4 id="lessons-3">Lessons</h4>
+<ul>
+  <li>3.3: Hierarchy &amp; Typography</li>
+</ul>
+
+<h4 id="exercises-3">Exercises</h4>
+<ul>
+  <li>E6: <a href="/projects#e6">Type on Screen I</a></li>
+</ul>
+
+<h4 id="project-3">Project</h4>
+<ul>
+  <li>P1.3: Pages linked together and styled</li>
+  <li>P2: Start <!--[Start](/projects/p1)--></li>
+</ul>
+
+<h4 id="digital-references-3">Digital References</h4>
+<ul>
+  <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/web-typography/">Web Typography</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-5-922">Week 5 [9.22]</h3>
+
+<h4 id="lessons-4">Lessons</h4>
+
+<ul>
+  <li>2.4: Images</li>
+  <li>3.2: CSS Selectors</li>
+</ul>
+
+<h4 id="exercises-4">Exercises</h4>
+<ul>
+  <li>E7: <a href="/projects#e7">seven-principles.txt</a></li>
+</ul>
+
+<h4 id="project-4">Project</h4>
+<ul>
+  <li>P1.4: Due</li>
+</ul>
+
+<h4 id="digital-references-4">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 7, 11, &amp; 12</a></li>
+  <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/css-selectors/">CSS Selectors</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-6-929">Week 6 [9.29]</h3>
+<p>Responsive design is a key element of designing for the web today. This week we will introduce the concept and coding principles behind getting a website to show up well on a narrow phone screen and a wide desktop monitor.</p>
+
+<h4 id="lessons-5">Lessons</h4>
+<ul>
+  <li>5.1: Responsive Design</li>
+</ul>
+
+<h4 id="exercises-5">Exercises</h4>
+<ul>
+  <li>E10: <a href="/projects#e10">Visualizing Responsiveness</a></li>
+</ul>
+
+<h4 id="project-5">Project</h4>
+
+<h4 id="digital-references-5">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 17</a></li>
+  <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/responsive-design/">Responsive Design</a> &amp; <a href="https://www.internetingishard.com/html-and-css/responsive-images/">Responsive Images</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-7-106">Week 7 [10.6]</h3>
+<p>Every element in HTML is a rectangular box and the box model will help us understand how those elements get drawn on the screen. We will also talk about the different ways to  layout pages with HTML and CSS and we will focus on one of those — floats.</p>
+
+<h4 id="lessons-6">Lessons</h4>
+<ul>
+  <li>3.1: The Box Model</li>
+  <li>4.1: Floats One</li>
+</ul>
+
+<h4 id="exercises-6">Exercises</h4>
+<ul>
+  <li>E8: <a href="/projects#e8">Patterns</a></li>
+</ul>
+
+<h4 id="project-6">Project</h4>
+
+<h4 id="digital-references-6">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 14 &amp; 15</a></li>
+  <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/css-box-model/">The Box Model</a>, <a href="https://www.internetingishard.com/html-and-css/floats/">Floats</a> &amp; if your looking for more flexibility in your layouts <a href="https://www.internetingishard.com/html-and-css/flexbox/">Flexbox</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-8-1013">Week 8 [10.13]</h3>
+<p>No class, fall break. Your Monday classes will meet on this day, we will not.</p>
+
+<hr />
+
+<h3 id="week-9-1020">Week 9 [10.20]</h3>
+<p>We will continue our discussion on floats and expand what we are able to build using them.</p>
+
+<h4 id="lessons-7">Lessons</h4>
+<ul>
+  <li>4.2: Floats Two</li>
+</ul>
+
+<h4 id="exercises-optional">Exercises (optional)</h4>
+<ul>
+  <li>E9: <a href="/projects#e9">Layouts</a></li>
+</ul>
+
+<h4 id="project-7">Project</h4>
+
+<h4 id="digital-references-7">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 14 &amp; 15</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-10-1027">Week 10 [10.27]</h3>
+<p>This week we will cover navigation design and how to make those designs come to life on the web.</p>
+
+<h4 id="lessons-8">Lessons</h4>
+<ul>
+  <li>5.2: Navigation</li>
+</ul>
+
+<h4 id="exercises-optional-1">Exercises (optional)</h4>
+<ul>
+  <li>E11: <a href="/projects#e11">Type on Screen II</a></li>
+</ul>
+
+<h4 id="project-8">Project</h4>
+
+<h4 id="digital-references-8">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 6</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-11-113">Week 11 [11.3]</h3>
+
+<h4 id="lessons-9">Lessons</h4>
+<ul>
+  <li>6.1: Advanced Positioning</li>
+</ul>
+
+<h4 id="exercises-optional-2">Exercises (optional)</h4>
+<ul>
+  <li>E12: <a href="/projects#e12">CSS Drawing</a></li>
+</ul>
+
+<h4 id="project-9">Project</h4>
+
+<h4 id="digital-references-9">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 15</a></li>
+  <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Advanced Positioning</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-12-1110">Week 12 [11.10]</h3>
+
+<h4 id="lessons-10">Lessons</h4>
+<ul>
+  <li>6.2: Advanced CSS</li>
+</ul>
+
+<h4 id="exercises-optional-3">Exercises (optional)</h4>
+<ul>
+  <li>E13: <a href="/projects#e12">CSS Animations</a></li>
+</ul>
+
+<h4 id="project-10">Project</h4>
+
+<h4 id="digital-references-10">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 18 &amp; 19</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-13-1117">Week 13 [11.17]</h3>
+
+<h4 id="lessons-11">Lessons</h4>
+<ul>
+  <li>14.1: JavaScript and jQuery</li>
+</ul>
+
+<h4 id="exercises-optional-4">Exercises (optional)</h4>
+<ul>
+  <li>E14: <a href="/projects#e14">jQuery</a></li>
+</ul>
+
+<h4 id="project-11">Project</h4>
+
+<h4 id="digital-references-11">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 21 &amp; 22</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-14-1124">Week 14 [11.24]</h3>
+
+<h4 id="lessons-12">Lessons</h4>
+<ul>
+  <li>15.1: Plugins</li>
+</ul>
+
+<h4 id="exercises-optional-5">Exercises (optional)</h4>
+<ul>
+  <li>E15: <a href="/projects#e15">Plugins</a></li>
+</ul>
+
+<h4 id="project-12">Project</h4>
+
+<h4 id="digital-references-12">Digital References</h4>
+<ul>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 21 &amp; 22</a></li>
+</ul>
+
+<hr />
+
+<h3 id="week-15-121">Week 15 [12.1]</h3>
+
+<h4 id="lessons-13">Lessons</h4>
+<ul>
+  <li>None</li>
+</ul>
+
+<h4 id="exercises-optional-6">Exercises (optional)</h4>
+<ul>
+  <li>None</li>
+</ul>
+
+<h4 id="project-13">Project</h4>
+
+<h4 id="digital-references-13">Digital References</h4>
+<ul>
+  <li>None</li>
+</ul>
+:ET

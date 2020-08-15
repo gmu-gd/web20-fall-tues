@@ -1,0 +1,264 @@
+---
+layout: interior
+title: Schedule
+---
+
+### Week 1 [8.25]
+This week we'll start to get to know a bit about each other and spend a little time reviewing how this course will work. Then we'll move onto an overview of the programs, tools, and languages we will be using. We will also look at a few basic HTML elements and build a web page.
+
+#### Lessons
+* 1.1: Introduction
+* 1.2: Basic HTML
+
+#### Exercises
+* E1: [20 Questions]({{ site.baseurl }}/projects#e1)
+
+#### Project
+* P1: [Start]({{ site.baseurl }}/projects/p1)
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 1&ndash;5](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Interneting is Hard:_ [Introduction](https://www.internetingishard.com/html-and-css/introduction/) &amp; [Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+
+---
+
+### Week 2 [9.1]
+This week we will take a look at the primary visual structure of the web, grids. We will learn about creating our own grids and how to use those grids to layout content. We will also go over the concept of space as it relates to design.
+
+#### Lessons
+* 2.1: Grids &amp; Spacing
+
+#### Exercises
+* E2: Make the Grid <!--[Make the Grid]({{ site.baseurl }}/projects#e2)-->
+* E3: Programmer and Computer <!--[Programmer and Computer]({{ site.baseurl }}/projects#e3)-->
+
+#### Project
+* P1.1: Text chosen
+
+#### Digital References
+
+---
+
+### Week 3 [9.8]
+This week we'll go a little further into HTML and begin to introduce CSS. We will look at best practices for folder and file naming, organization, and structure as well as the first steps of planning and designing a website. We will also introduce the thing that makes the internet the internet, links.
+
+#### Lessons
+* 3.1: Organization, Naming, and Planning
+* 3.2: Links
+* 3.3: External Style Sheets
+
+#### Exercises
+* E4: Organization and Naming <!---[Organization and Naming]({{ site.baseurl }}/projects#e4)-->
+* E5: Site Map <!---[Site Map]({{ site.baseurl }}/projects#e5)-->
+* E6: Wireframes <!---[Wireframes]({{ site.baseurl }}/projects#e6)-->
+
+#### Project
+* P1.2: Content marked up in 10 pages
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 6. 11, 12, &amp; 13](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Interneting is Hard:_ [Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/) &amp; [Hello CSS](https://www.internetingishard.com/html-and-css/hello-css/)
+
+---
+
+### Week 4 [9.15]
+Much of the information on the internet is gathered through reading. As designers we want to be able to present that information in a clear and understandable way so this week we are talking about hierarchy and typography.
+
+#### Lessons
+* 4.1: Hierarchy &amp; Typography
+
+#### Exercises
+* E7: Type on Screen I <!--[Type on Screen I]({{ site.baseurl }}/projects#e7)-->
+
+#### Project
+* P1.3: Pages linked together and styled
+* P2: Start <!--[Start]({{ site.baseurl }}/projects/p1)-->
+
+#### Digital References
+* _Interneting is Hard:_ [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
+
+---
+
+### Week 5 [9.22]
+This week we will cover how to add and style images and how to target more specifically with CSS selectors.
+
+#### Lessons
+
+* 5.1: Images
+* 5.2: CSS Selectors
+
+#### Exercises
+* E8: seven-principles.txt <!--[seven-principles.txt]({{ site.baseurl }}/projects#e8)-->
+
+#### Project
+* P1.4: Due
+* P2.1: Content gathered, reference sites, site map, wireframes
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 7, 11, &amp; 12](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Interneting is Hard:_ [CSS Selectors](https://www.internetingishard.com/html-and-css/css-selectors/) &amp; [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
+
+---
+
+### Week 6 [9.29]
+Responsive design is a key element of designing for the web today. This week we will introduce the concept and coding principles behind getting a website to show up well on a narrow phone screen and a wide desktop monitor.
+
+#### Lessons
+* 6.1: Responsive Design
+
+#### Exercises
+* E9: Visualizing Responsiveness <!--[Visualizing Responsiveness]({{ site.baseurl }}/projects#e9)-->
+
+#### Project
+* P2.2: Style board, R1 designs (desktop and mobile)
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 17](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Interneting is Hard:_ [Responsive Design](https://www.internetingishard.com/html-and-css/responsive-design/) &amp; [Responsive Images](https://www.internetingishard.com/html-and-css/responsive-images/)
+
+---
+
+### Week 7 [10.6]
+Every element in HTML is a rectangular box and the box model will help us understand how those elements get drawn on the screen. We will also talk about the different ways to  layout pages with HTML and CSS and we will focus on one of those &mdash; floats.
+
+#### Lessons
+* 7.1: The Box Model
+* 7.2: Floats One
+
+#### Exercises
+* E10: Patterns <!--[Patterns]({{ site.baseurl }}/projects#e10)-->
+
+#### Project
+* P2.3: R2 designs (desktop and mobile)
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 14 &amp; 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Interneting is Hard:_ [The Box Model](https://www.internetingishard.com/html-and-css/css-box-model/), [Floats](https://www.internetingishard.com/html-and-css/floats/) &amp; if your looking for more flexibility in your layouts [Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)
+
+---
+
+### Week 8 [10.13]
+No class, fall break. Your Monday classes will meet on this day, we will not.
+
+---
+
+### Week 9 [10.20]
+We will continue our discussion on floats and expand what we are able to build using them.
+
+#### Lessons
+* 8.1: Floats Two
+
+#### Exercises
+* E11: Layouts <!--[Layouts]({{ site.baseurl }}/projects#e11)-->
+
+#### Project
+* P2.4: Desktop or mobile version coded, final design refinements
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 14 &amp; 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+
+---
+
+### Week 10 [10.27]
+This week we will cover navigation design and how to make those designs come to life on the web.
+
+#### Lessons
+* 9.1: Navigation
+
+#### Exercises
+* E12: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
+
+#### Project
+* P2.5: Site refined and responsive
+* P3: Start
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 6](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+
+---
+
+### Week 11 [11.3]
+Using CSS we can position elements exactly where we want them to appear on screen or in relation to other elements. This week we will cover four different kinds of positioning and use them to make the browser a drawing tool.
+
+#### Lessons
+* 10.1: Advanced Positioning
+
+#### Exercises
+* E13: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e13)-->
+
+
+#### Project
+* P2.6: Final site refinements
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Interneting is Hard:_ [Advanced Positioning](https://www.internetingishard.com/html-and-css/advanced-positioning/)
+
+---
+
+### Week 12 [11.10]
+So far we have covered how to style pages with CSS but those styles have generally remained static. This week we will expand our skills in CSS and learn how to animate our designs.
+
+#### Lessons
+* 11.1: CSS Animations
+
+#### Exercises
+* E14: CSS Animations <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
+
+#### Project
+* P2.7: Due
+* P3.1: 3 ideas
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 18 &amp; 19](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+
+---
+
+### Week 13 [11.17]
+HTML and CSS are great for building and styling websites but they are not great at creating interaction or dynamic changes. This is where JavaScript and jQuery come in and this week we will cover some basic concepts of how to add simple interactions to a website.
+
+#### Lessons
+* 12.1: JavaScript and jQuery
+
+#### Exercises
+* E15: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e15)-->
+
+#### Project
+* P3.2: R1 designed
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+
+---
+
+### Week 14 [11.24]
+Now that we have a basic understanding of JavaScript and jQuery we can take a look at prebuilt plugins that will allow us to build more complicated sites without having to build complex interactions from scratch.
+
+#### Lessons
+* 13.1: Plugins
+
+#### Exercises
+* E16: Plugins <!--[Plugins]({{ site.baseurl }}/projects#e16)-->
+
+#### Project
+* P3.3: Coded version
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+
+---
+
+### Week 15 [12.1]
+The final week to review any odds and ends.
+
+#### Lessons
+* None
+
+#### Exercises
+* None
+
+#### Project
+* P3.4: Due
+
+#### Digital References
+* None
