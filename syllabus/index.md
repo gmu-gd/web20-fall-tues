@@ -122,7 +122,7 @@ Each project will generate two different grades. One grade will be based on your
 
 ### Technology Requirements
 
-Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. With the suspension of in-person classes, CVPA computer labs will not be available to fulfill this requirement. If you do not already have an Adobe license and are interested in purchasing one or if you already have a license and need to renew it, please visit [Adobe](https://www.adobe.com/creativecloud/buy/students.html). If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit the [Student Emergency Assistance Fund](https://ulife.gmu.edu/student-emergency-assistance-funding-2-2-2/) to apply. 
+Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. With the suspension of in-person classes, CVPA computer labs will not be available to fulfill this requirement. If you do not already have an Adobe license and are interested in purchasing one or if you already have a license and need to renew it, please visit [Adobe](https://www.adobe.com/creativecloud/buy/students.html). If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit the [Student Emergency Assistance Fund](https://ulife.gmu.edu/student-emergency-assistance-funding-2-2-2/) to apply.
 
 ### Visual Voices Lecture Series
 
@@ -196,8 +196,7 @@ As professionals responsible for the education of undergraduate and graduate art
 <li><span class="date">Wed. Sept 16&ndash;Mon. Sept 28:</span> Unrestricted Withdrawal Period: 100% Tuition Liability</li>
 <li><span class="date">Mon. Sept 21&ndash;Fri. Oct 16:</span> Mid-term Evaluation Period: 100-200 level classes</li>
 <li><span class="date">Tue. Sept 29&ndash;Wed. Oct 28:</span> Selective Withdrawal Period (Undergraduate students only</li>
-<li><span class="date">Mon. Oct 12:</span> Fall Break (classes do not meet</li>
-<li><span class="date">Tue. Oct 13:</span> Monday Classes Meet (Tuesday classes do not meet this week</li>
+<li><span class="date">Tue. Nov 3:</span> Election Day (classes do not meet</li>
 <li><span class="date">Sat. Dec. 5:</span> Incomplete Work from Spring/Summer 2020 Due to Instructor</li>
 <li><span class="date">Fri. Dec. 11:</span> Incomplete Grade Changes from Spring/Summer 2020 Due to Registrar</li>
 <li><span class="date">Wed. Nov 25&ndash;Sun. Nov 29:</span> Thanksgiving Recess: No Classes (University Closed Nov. 26-29</li>

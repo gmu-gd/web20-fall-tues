@@ -178,7 +178,7 @@ So far we have covered how to style pages with CSS but those styles have general
 * 11.1: CSS Animations
 
 #### Starting
-* E14: CSS Animations <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
+* E14: Make it Move <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 18 &amp; 19](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
