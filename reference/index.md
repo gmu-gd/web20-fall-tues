@@ -4,8 +4,8 @@ title: Reference
 ---
 
 ### Websites, Useful
-* [Class Repository - Github](https://github.com/mmcdermott18/su2020-avt217/tree/gh-pages)
-* [Class Repository - Live](https://mmcdermott18.github.io/su2020-avt217/)
+* [Class Repository - Github](https://github.com/mmcdermott18/avt217-fa2020/tree/gh-pages)
+* [Class Repository - Live](https://mmcdermott18.github.io/avt217-fa2020/)
 * [HTML Elements Cheatsheet](https://gmu-gd.github.io/web20-spring/files/learn-html-elements.pdf)
 * [Codecademy](https://www.codecademy.com/)
 * [Interneting is Hard](https://www.internetingishard.com/)
