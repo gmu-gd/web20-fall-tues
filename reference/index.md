@@ -4,7 +4,7 @@ title: Reference
 ---
 
 ### Websites, Useful
-* [Class Repository - Github](https://github.com/mmcdermott18/avt217-fall2020/tree/gh-pages)
+* [Class Repository - Github](https://github.com/mmcdermott18/avt217-fall2020)
 * [Class Repository - Live](https://mmcdermott18.github.io/avt217-fall2020/)
 * [HTML Elements Cheatsheet](https://gmu-gd.github.io/web20-spring/files/learn-html-elements.pdf)
 * [Codecademy](https://www.codecademy.com/)
