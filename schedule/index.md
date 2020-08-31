@@ -31,8 +31,8 @@ This week we will take a look at the primary visual structure of the web, grids.
 * 2.1: Grids &amp; Spacing
 
 #### Starting
-* E2: Make the Grid <!--[Make the Grid]({{ site.baseurl }}/projects#e2)-->
-* E3: Programmer and Computer <!--[Programmer and Computer]({{ site.baseurl }}/projects#e3)-->
+* E2: [Make the Grid]({{ site.baseurl }}/projects#e2)
+* E3: [Programmer and Computer]({{ site.baseurl }}/projects#e3)
 
 #### Digital References
 None
