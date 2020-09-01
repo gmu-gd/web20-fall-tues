@@ -112,7 +112,7 @@ Grades will be based on your attendance and quizzes (10%), participation (25%), 
 This percentage will be an average between your total quiz grade and your total attendance. If you show up to class and do well on the quizzes you will be fine.
 
 #### Participation (25%)
-This percentage will primarily be based on discussion board assignments and critiques with a smaller portion based on participation in our virtual channels (Slack and Zoom). As long as you are engaged in those channels throughout the semester you will be fine here. A note about this grade in Blackboard &emdash; the grade will start as a 100 and you will lose points for not participating. For example, if you are supposed to give feedback to a classmate by a certain day and you do not give that feedback you will lose points from the participation grade. There is no way to make up these points.
+This percentage will primarily be based on discussion board assignments and critiques with a smaller portion based on participation in our virtual channels (Slack and Zoom). As long as you are engaged in those channels throughout the semester you will be fine here. A note about this grade in Blackboard &mdash; the grade will start as a 100 and you will lose points for not participating. For example, if you are supposed to give feedback to a classmate by a certain day and you do not give that feedback you will lose points from the participation grade. There is no way to make up these points.
 
 #### Exercises (25%)
 The exercises are graded using two different rubrics depending on the type of exercise. One rubric will be used for an exercise based more on design and one rubric will be used for an exercise based more on coding. The exercise are meant to be quicker skill building assignments.
