@@ -39,3 +39,5 @@ title: Reference
 * [A Message from Earth](https://amessagefrom.earth/)
 * [NYT Summer Reading](https://www.nytimes.com/interactive/2019/books/summer-reading.html)
 * [User Inyerface](https://userinyerface.com/)
+* [Pure CSS Francine](https://diana-adrianne.com/purecss-francine/)
+* [A Single Div](https://a.singlediv.com/)
