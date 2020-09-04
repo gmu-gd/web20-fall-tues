@@ -10,6 +10,7 @@ title: Reference
 * [Codecademy](https://www.codecademy.com/)
 * [Interneting is Hard](https://www.internetingishard.com/)
 * [A List Apart](https://alistapart.com/)
+* [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
 
 ### Books
 * [Learning Web Design](https://www.learningwebdesign.com/)
