@@ -32,7 +32,7 @@ This week we will take a look at the primary visual structure of the web, grids.
 
 #### Starting
 * E2: [Make the Grid]({{ site.baseurl }}/projects#e2)
-* E3: [Programmer and Computer]({{ site.baseurl }}/projects#e3)
+<!-- * E3: [Programmer and Computer]({{ site.baseurl }}/projects#e3) -->
 
 #### Digital References
 None
@@ -48,13 +48,13 @@ This week we'll go a little further into HTML and begin to introduce CSS. We wil
 * 3.3: External Style Sheets
 
 #### Starting
-* E4: Organization and Naming <!---[Organization and Naming]({{ site.baseurl }}/projects#e4)-->
-* E5: Site Map <!---[Site Map]({{ site.baseurl }}/projects#e5)-->
-* E6: Wireframes <!---[Wireframes]({{ site.baseurl }}/projects#e6)-->
+* E3: [Organization and Naming]({{ site.baseurl }}/projects#e3)
+* E4: [Site Map]({{ site.baseurl }}/projects#e4)
+* E5: [Wireframes]({{ site.baseurl }}/projects#e5)
 
 
 #### Digital References
-* _Learning Web Design:_ [Chapters 6. 11, 12, &amp; 13](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Learning Web Design:_ [Chapters 6, 11, 12, &amp; 13](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 * _Interneting is Hard:_ [Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/) &amp; [Hello CSS](https://www.internetingishard.com/html-and-css/hello-css/)
 
 ---
@@ -66,7 +66,7 @@ Much of the information on the internet is gathered through reading. As designer
 * 4.1: Hierarchy &amp; Typography
 
 #### Starting
-* E7: Type on Screen I <!--[Type on Screen I]({{ site.baseurl }}/projects#e7)-->
+* E6: Type on Screen I <!--[Type on Screen I]({{ site.baseurl }}/projects#e6)-->
 * P2: Start <!--[Start]({{ site.baseurl }}/projects/p1)-->
 
 #### Digital References
@@ -83,7 +83,7 @@ This week we will cover how to add and style images and how to target more speci
 * 5.2: CSS Selectors
 
 #### Starting
-* E8: seven-principles.txt <!--[seven-principles.txt]({{ site.baseurl }}/projects#e8)-->
+* E7: seven-principles.txt <!--[seven-principles.txt]({{ site.baseurl }}/projects#e8)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 7, 11, &amp; 12](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -98,7 +98,7 @@ Responsive design is a key element of designing for the web today. This week we 
 * 6.1: Responsive Design
 
 #### Starting
-* E9: Visualizing Responsiveness <!--[Visualizing Responsiveness]({{ site.baseurl }}/projects#e9)-->
+* E8: Visualizing Responsiveness <!--[Visualizing Responsiveness]({{ site.baseurl }}/projects#e9)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 17](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -114,7 +114,7 @@ Every element in HTML is a rectangular box and the box model will help us unders
 * 7.2: Floats One
 
 #### Starting
-* E10: Patterns <!--[Patterns]({{ site.baseurl }}/projects#e10)-->
+* E9: Patterns <!--[Patterns]({{ site.baseurl }}/projects#e10)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 14 &amp; 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -129,7 +129,7 @@ We will continue our discussion on floats and expand what we are able to build u
 * 8.1: Floats Two
 
 #### Starting
-* E11: Layouts <!--[Layouts]({{ site.baseurl }}/projects#e11)-->
+* E10: Layouts <!--[Layouts]({{ site.baseurl }}/projects#e11)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 14 &amp; 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -143,7 +143,7 @@ This week we will cover navigation design and how to make those designs come to 
 * 9.1: Navigation
 
 #### Starting
-* E12: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
+* E11: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
 * P3: Start
 
 #### Digital References
@@ -158,7 +158,7 @@ Using CSS we can position elements exactly where we want them to appear on scree
 * 10.1: Advanced Positioning
 
 #### Starting
-* E13: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e13)-->
+* E12: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e13)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -178,7 +178,7 @@ So far we have covered how to style pages with CSS but those styles have general
 * 11.1: CSS Animations
 
 #### Starting
-* E14: Make it Move <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
+* E13: Make it Move <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 18 &amp; 19](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -192,7 +192,7 @@ HTML and CSS are great for building and styling websites but they are not great 
 * 12.1: JavaScript and jQuery
 
 #### Starting
-* E15: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e15)-->
+* E14: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e15)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -206,7 +206,7 @@ Now that we have a basic understanding of JavaScript and jQuery we can take a lo
 * 13.1: Plugins
 
 #### Starting
-* E16: Plugins <!--[Plugins]({{ site.baseurl }}/projects#e16)-->
+* E15: Plugins <!--[Plugins]({{ site.baseurl }}/projects#e16)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
