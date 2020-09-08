@@ -1,4 +1,4 @@
-I"Ë,<p>This schedule maps out what we are covering in class each week and what work we are starting that day. It is very subject to change as we go along in class.</p>
+I"œ,<p>This schedule maps out what we are covering in class each week and what work we are starting that day. It is very subject to change as we go along in class.</p>
 
 <p>If you want to know what is due for next class, <a href="/due">check here</a>.</p>
 
@@ -35,8 +35,8 @@
 
 <h4 id="starting-1">Starting</h4>
 <ul>
-  <li>E2: <a href="/projects#e2">Make the Grid</a></li>
-  <li>E3: <a href="/projects#e3">Programmer and Computer</a></li>
+  <li>E2: <a href="/projects#e2">Make the Grid</a>
+<!-- * E3: [Programmer and Computer](/projects#e3) --></li>
 </ul>
 
 <h4 id="digital-references-1">Digital References</h4>
@@ -56,14 +56,14 @@
 
 <h4 id="starting-2">Starting</h4>
 <ul>
-  <li>E4: Organization and Naming <!---[Organization and Naming](/projects#e4)--></li>
-  <li>E5: Site Map <!---[Site Map](/projects#e5)--></li>
-  <li>E6: Wireframes <!---[Wireframes](/projects#e6)--></li>
+  <li>E3: <a href="/projects#e3">Organization and Naming</a></li>
+  <li>E4: <a href="/projects#e4">Site Map</a></li>
+  <li>E5: <a href="/projects#e5">Wireframes</a></li>
 </ul>
 
 <h4 id="digital-references-2">Digital References</h4>
 <ul>
-  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 6. 11, 12, &amp; 13</a></li>
+  <li><em>Learning Web Design:</em> <a href="https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml">Chapters 6, 11, 12, &amp; 13</a></li>
   <li><em>Interneting is Hard:</em> <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Links and Images</a> &amp; <a href="https://www.internetingishard.com/html-and-css/hello-css/">Hello CSS</a></li>
 </ul>
 
@@ -79,7 +79,7 @@
 
 <h4 id="starting-3">Starting</h4>
 <ul>
-  <li>E7: Type on Screen I <!--[Type on Screen I](/projects#e7)--></li>
+  <li>E6: Type on Screen I <!--[Type on Screen I](/projects#e6)--></li>
   <li>P2: Start <!--[Start](/projects/p1)--></li>
 </ul>
 
@@ -102,7 +102,7 @@
 
 <h4 id="starting-4">Starting</h4>
 <ul>
-  <li>E8: seven-principles.txt <!--[seven-principles.txt](/projects#e8)--></li>
+  <li>E7: seven-principles.txt <!--[seven-principles.txt](/projects#e8)--></li>
 </ul>
 
 <h4 id="digital-references-4">Digital References</h4>
@@ -123,7 +123,7 @@
 
 <h4 id="starting-5">Starting</h4>
 <ul>
-  <li>E9: Visualizing Responsiveness <!--[Visualizing Responsiveness](/projects#e9)--></li>
+  <li>E8: Visualizing Responsiveness <!--[Visualizing Responsiveness](/projects#e9)--></li>
 </ul>
 
 <h4 id="digital-references-5">Digital References</h4>
@@ -145,7 +145,7 @@
 
 <h4 id="starting-6">Starting</h4>
 <ul>
-  <li>E10: Patterns <!--[Patterns](/projects#e10)--></li>
+  <li>E9: Patterns <!--[Patterns](/projects#e10)--></li>
 </ul>
 
 <h4 id="digital-references-6">Digital References</h4>
@@ -166,7 +166,7 @@
 
 <h4 id="starting-7">Starting</h4>
 <ul>
-  <li>E11: Layouts <!--[Layouts](/projects#e11)--></li>
+  <li>E10: Layouts <!--[Layouts](/projects#e11)--></li>
 </ul>
 
 <h4 id="digital-references-7">Digital References</h4>
@@ -186,7 +186,7 @@
 
 <h4 id="starting-8">Starting</h4>
 <ul>
-  <li>E12: Type on Screen II <!--[Type on Screen II](/projects#e12)--></li>
+  <li>E11: Type on Screen II <!--[Type on Screen II](/projects#e12)--></li>
   <li>P3: Start</li>
 </ul>
 
@@ -207,7 +207,7 @@
 
 <h4 id="starting-9">Starting</h4>
 <ul>
-  <li>E13: CSS Drawing <!--[CSS Drawing](/projects#e13)--></li>
+  <li>E12: CSS Drawing <!--[CSS Drawing](/projects#e13)--></li>
 </ul>
 
 <h4 id="digital-references-9">Digital References</h4>
@@ -233,7 +233,7 @@
 
 <h4 id="starting-10">Starting</h4>
 <ul>
-  <li>E14: Make it Move <!--[CSS Animations](/projects#e14)--></li>
+  <li>E13: Make it Move <!--[CSS Animations](/projects#e14)--></li>
 </ul>
 
 <h4 id="digital-references-10">Digital References</h4>
@@ -253,7 +253,7 @@
 
 <h4 id="starting-11">Starting</h4>
 <ul>
-  <li>E15: jQuery <!--[jQuery](/projects#e15)--></li>
+  <li>E14: jQuery <!--[jQuery](/projects#e15)--></li>
 </ul>
 
 <h4 id="digital-references-11">Digital References</h4>
@@ -273,7 +273,7 @@
 
 <h4 id="starting-12">Starting</h4>
 <ul>
-  <li>E16: Plugins <!--[Plugins](/projects#e16)--></li>
+  <li>E15: Plugins <!--[Plugins](/projects#e16)--></li>
 </ul>
 
 <h4 id="digital-references-12">Digital References</h4>
