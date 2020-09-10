@@ -52,7 +52,6 @@ This week we'll go a little further into HTML and begin to introduce CSS. We wil
 * E4: [Site Map]({{ site.baseurl }}/projects#e4)
 * E5: [Wireframes]({{ site.baseurl }}/projects#e5)
 
-
 #### Digital References
 * _Learning Web Design:_ [Chapters 6, 11, 12, &amp; 13](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 * _Interneting is Hard:_ [Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/) &amp; [Hello CSS](https://www.internetingishard.com/html-and-css/hello-css/)
