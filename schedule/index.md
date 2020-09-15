@@ -65,8 +65,8 @@ Much of the information on the internet is gathered through reading. As designer
 * 4.1: Hierarchy &amp; Typography
 
 #### Starting
-* E6: Type on Screen I <!--[Type on Screen I]({{ site.baseurl }}/projects#e6)-->
-* P2: Start <!--[Start]({{ site.baseurl }}/projects/p1)-->
+* E6: [Type on Screen I]({{ site.baseurl }}/projects#e6)
+* P2: [Start]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
 * _Interneting is Hard:_ [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)

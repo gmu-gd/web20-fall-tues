@@ -2,6 +2,7 @@ $(document).ready(function() {
     // run function on initial page load
     clickableDiv();
     nav();
+    smoothScroll();
     // run function on resize of the window
     $(window).resize(function() {
 
@@ -24,6 +25,22 @@ function nav() {
     $('#menu').click(function(){
       $('#menu').addClass('mobile-hide');
       $('body').removeClass('scroll-lock');
+    });
+  });
+}
+function smoothScroll() {
+  $(window).on("load", function(){
+    $('[href*="#food"], [href*="#art"], [href*="#music"], [href*="#travel"]').click(function() {
+      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+        if (target.length) {
+          $('body, html').animate({
+            scrollTop: target.offset().top - 50
+          }, 1000);
+          return false;
+        }
+      }
     });
   });
 }
