@@ -82,7 +82,7 @@ This week we will cover how to add and style images and how to target more speci
 * 5.2: CSS Selectors
 
 #### Starting
-* E7: seven-principles.txt <!--[seven-principles.txt]({{ site.baseurl }}/projects#e8)-->
+* E7: [seven-principles.txt]({{ site.baseurl }}/projects#e7)
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 7, 11, &amp; 12](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
