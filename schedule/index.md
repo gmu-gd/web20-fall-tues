@@ -102,18 +102,18 @@ Responsive design is a key element of designing for the web today. This week we 
 #### Digital References
 * _Learning Web Design:_ [Chapter 17](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 * _Interneting is Hard:_ [Responsive Design](https://www.internetingishard.com/html-and-css/responsive-design/) &amp; [Responsive Images](https://www.internetingishard.com/html-and-css/responsive-images/)
+
 ---
 
 ### Week 7 [10.6]
-Every element in HTML is a rectangular box and the box model will help us understand how those elements get drawn on the screen. We will also talk about the different ways to layout pages with HTML and CSS and we will focus on one of those &mdash; floats.
+Every element in HTML is a rectangular box and the box model will help us understand how those elements get drawn on the screen. We will also talk about one way to layout pages with HTML and CSS &mdash; floats.
 
 #### Lessons
 * 7.1: The Box Model
-* 7.2: HTML Layout Strategies
-* 7.3: Floats One
+* 7.2: Floats One
 
 #### Starting
-* E9: Patterns <!--[Patterns]({{ site.baseurl }}/projects#e10)-->
+* E9: [Patterns]({{ site.baseurl }}/projects#e9)
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 14 &amp; 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
