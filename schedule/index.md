@@ -122,6 +122,11 @@ Every element in HTML is a rectangular box and the box model will help us unders
 ---
 
 ### Week 8 [10.13]
+10 minute individual midterm meetings scheduled through the link in your email and posted in Slack.
+
+---
+
+### Week 9 [10.20]
 We will continue our discussion on floats and expand what we are able to build using them.
 
 #### Lessons
@@ -135,29 +140,14 @@ We will continue our discussion on floats and expand what we are able to build u
 
 ---
 
-### Week 9 [10.20]
-This week we will cover navigation design and how to make those designs come to life on the web.
-
-#### Lessons
-* 9.1: Navigation
-
-#### Starting
-* E11: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
-* P3: Start
-
-#### Digital References
-* _Learning Web Design:_ [Chapters 6](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
-
----
-
 ### Week 10 [10.27]
 Using CSS we can position elements exactly where we want them to appear on screen or in relation to other elements. This week we will cover four different kinds of positioning and use them to make the browser a drawing tool.
 
 #### Lessons
-* 10.1: Advanced Positioning
+* 9.1: Advanced Positioning
 
 #### Starting
-* E12: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e13)-->
+* E11: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e11)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -171,41 +161,42 @@ Election Day, no class. Go vote if you haven't!
 ---
 
 ### Week 12 [11.10]
+This week we will cover navigation design and how to make those designs come to life on the web.
+
+#### Lessons
+* 10.1: Navigation
+
+#### Starting
+* E12: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
+* P3: Start
+
+#### Digital References
+* _Learning Web Design:_ [Chapters 6](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+
+---
+
+### Week 13 [11.17]
 So far we have covered how to style pages with CSS but those styles have generally remained static. This week we will expand our skills in CSS and learn how to animate our designs.
 
 #### Lessons
 * 11.1: CSS Animations
 
 #### Starting
-* E13: Make it Move <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
+* E13: Make it Move <!--[CSS Animations]({{ site.baseurl }}/projects#e13)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 18 &amp; 19](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 
 ---
 
-### Week 13 [11.17]
+### Week 14 [11.24]
 HTML and CSS are great for building and styling websites but they are not great at creating interaction or dynamic changes. This is where JavaScript and jQuery come in and this week we will cover some basic concepts of how to add simple interactions to a website.
 
 #### Lessons
 * 12.1: JavaScript and jQuery
 
 #### Starting
-* E14: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e15)-->
-
-#### Digital References
-* _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
-
----
-
-### Week 14 [11.24]
-Now that we have a basic understanding of JavaScript and jQuery we can take a look at prebuilt plugins that will allow us to build more complicated sites without having to build complex interactions from scratch.
-
-#### Lessons
-* 13.1: Plugins
-
-#### Starting
-* E15: Plugins <!--[Plugins]({{ site.baseurl }}/projects#e16)-->
+* E14: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e14)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -213,13 +204,13 @@ Now that we have a basic understanding of JavaScript and jQuery we can take a lo
 ---
 
 ### Week 15 [12.1]
-The final week to review any odds and ends.
+We made it to the end! Today our final exercise that we will be creating in class.
 
 #### Lessons
 * None
 
-#### Starting
-* Nothing
+#### In Class
+* E15: Programmer and Computer <!--[Plugins]({{ site.baseurl }}/projects#e15)-->
 
 #### Digital References
 * None
