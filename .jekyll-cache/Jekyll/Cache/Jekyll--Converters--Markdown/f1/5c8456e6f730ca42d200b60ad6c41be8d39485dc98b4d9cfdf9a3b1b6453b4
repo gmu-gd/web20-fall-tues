@@ -1,4 +1,4 @@
-I"�<p>This tutorial will introduce the image element and how to use that element to get images to display on your pages. This tutorial will use Exercise 2 as the example for adding images.</p>
+I"�<p>This tutorial will introduce the image element and how to use that element to get images to display on your pages. This tutorial will use Exercise 2 as the example for adding images.</p>
 
 <h3 id="step-1-open-your-repository-in-atom"><span id="step1">Step 1: Open Your Repository in Atom</span></h3>
 <p>Start with opening up the Github App and making sure you have your repository as the Current Repository and that the Current Branch is gh-pages. If those two pieces of information are correct, click the “Open in Atom” button in the middle of the screen.</p>
@@ -9,7 +9,7 @@
 
 <p><img src="/assets/img/2p3/step1a2.png" alt="repository opened in Atom" title="Step 1a" /></p>
 
-<p>A few notes here. If you don’t see the project panel on the left of the window you can go to <span class="command"><em>View &gt; Toggle Tree View</em></span> to open it up. If you see files that start with a period, like <strong>.gitignore</strong> or <strong>.DS_Store</strong> you can ignore those. They are hidden files that you probably don’t see in your repository but show up in Atom. This view is also assuming you are looking at this tutorial after finishing the 2.1 tutorial. If you have other files or folders in your repository this will look different.</p>
+<p>A few notes here. If you don’t see the project panel on the left of the window you can go to <span class="command"><em>View &gt; Toggle Tree View</em></span> to open it up. If you see files that start with a period, like <strong>.gitignore</strong> or <strong>.DS_Store</strong> you can ignore those. They are hidden files that you probably don’t see in your repository but show up in Atom. This view is also assuming you are looking at this tutorial after finishing Tutorial 2. If you have other files or folders in your repository this will look different.</p>
 
 <h3 id="step-2-add-a-folder-html-file-and-images"><span id="step2">Step 2: Add a Folder, HTML File, and Images</span></h3>
 <p>The nice thing about Atom is you can add folders and files right from the tree view in the left panel. If you right click in that panel you will see the pop out in the image below.</p>
