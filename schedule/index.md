@@ -204,7 +204,7 @@ HTML and CSS are great for building and styling websites but they are not great 
 ---
 
 ### Week 15 [12.1]
-We made it to the end! Today our final exercise that we will be creating in class.
+We made it to the end! Today we will complete our final exercise in class.
 
 #### Lessons
 * None
