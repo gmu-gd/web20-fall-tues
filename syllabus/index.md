@@ -70,9 +70,9 @@ The structure of a website is equally as important as the design of a website. G
 
 Students will conceptualize, plan, design, and code a multipage website using one of several provided topics. The project will build off of the lessons each week and be a synthesis of the concepts and skills learned over the course of the semester. Each students project will be unique in content and form but be based on the same set of requirements. [More information here]({{ site.baseurl }}/projects).
 
-#### project 3: single serve
+<!-- #### project 3: single serve
 
-A single serve website is comprised of a single page that only does one thing. You will come up with a concept and design for a single serve website and then build the website. The concept can be simple or complex but the site must only be a single page and serve a single function. The URL of the site should help explain the concept and the content should help reinforce the URL. If you need a place to look at single serve websites go [here](https://theuselessweb.com/). That website is a single serve website that takes you to other single serve websites. [More information here]({{ site.baseurl }}/projects).
+A single serve website is comprised of a single page that only does one thing. You will come up with a concept and design for a single serve website and then build the website. The concept can be simple or complex but the site must only be a single page and serve a single function. The URL of the site should help explain the concept and the content should help reinforce the URL. If you need a place to look at single serve websites go [here](https://theuselessweb.com/). That website is a single serve website that takes you to other single serve websites. [More information here]({{ site.baseurl }}/projects). -->
 
 ### Schedule
 
