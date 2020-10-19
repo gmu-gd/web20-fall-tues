@@ -4,7 +4,7 @@ title: Syllabus
 ---
 ### General
 
-This is the syllabus for the _Fall 2020_ class of _AVT 217: Intro to Web Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Wednesdays and Fridays from 12&ndash;4.
+This is the syllabus for the _Fall 2020_ class of _AVT 217: Intro to Web Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Mondays from 12&ndash;2, Wednesdays from 10&ndash;12, and Fridays from 12&ndash;2.
 
 ### Delivery and Timing
 
