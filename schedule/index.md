@@ -147,7 +147,7 @@ Using CSS we can position elements exactly where we want them to appear on scree
 * 9.1: Advanced Positioning
 
 #### Starting
-* E11: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e11)-->
+* E11: [CSS Drawing]({{ site.baseurl }}/projects#e11)
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
