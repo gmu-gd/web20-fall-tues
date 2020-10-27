@@ -110,7 +110,7 @@ Every element in HTML is a rectangular box and the box model will help us unders
 
 #### Lessons
 * 7.1: The Box Model
-* 7.2: Floats One
+* 7.2: Floats
 
 #### Starting
 * E9: [Patterns]({{ site.baseurl }}/projects#e9)
@@ -130,7 +130,7 @@ Every element in HTML is a rectangular box and the box model will help us unders
 We will continue our discussion on floats and expand what we are able to build using them.
 
 #### Lessons
-* 8.1: Floats Two
+* 7.2: Floats
 
 #### Starting
 * E10: [Layouts]({{ site.baseurl }}/projects#e10)
@@ -144,7 +144,7 @@ We will continue our discussion on floats and expand what we are able to build u
 Using CSS we can position elements exactly where we want them to appear on screen or in relation to other elements. This week we will cover four different kinds of positioning and use them to make the browser a drawing tool.
 
 #### Lessons
-* 9.1: Advanced Positioning
+* 8.1: Positioning
 
 #### Starting
 * E11: [CSS Drawing]({{ site.baseurl }}/projects#e11)
@@ -164,11 +164,11 @@ Election Day, no class. Go vote if you haven't!
 This week we will cover navigation design and how to make those designs come to life on the web.
 
 #### Lessons
-* 10.1: Navigation
+* 9.1: Navigation
 
 #### Starting
 * E12: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
-* P3: Start
+<!-- * P3: Start -->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 6](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -179,7 +179,7 @@ This week we will cover navigation design and how to make those designs come to 
 So far we have covered how to style pages with CSS but those styles have generally remained static. This week we will expand our skills in CSS and learn how to animate our designs.
 
 #### Lessons
-* 11.1: CSS Animations
+* 10.1: CSS Animations
 
 #### Starting
 * E13: Make it Move <!--[CSS Animations]({{ site.baseurl }}/projects#e13)-->
@@ -193,7 +193,7 @@ So far we have covered how to style pages with CSS but those styles have general
 HTML and CSS are great for building and styling websites but they are not great at creating interaction or dynamic changes. This is where JavaScript and jQuery come in and this week we will cover some basic concepts of how to add simple interactions to a website.
 
 #### Lessons
-* 12.1: JavaScript and jQuery
+* 11.1: JavaScript and jQuery
 
 #### Starting
 * E14: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e14)-->
@@ -210,7 +210,7 @@ We made it to the end! Today we will complete our final exercise in class.
 * None
 
 #### In Class
-* E15: Programmer and Computer <!--[Plugins]({{ site.baseurl }}/projects#e15)-->
+* E15: Programmer and Computer <!--[Programmer and Computer]({{ site.baseurl }}/projects#e15)-->
 
 #### Digital References
 * None
