@@ -167,8 +167,7 @@ This week we will cover navigation design and how to make those designs come to 
 * 9.1: Navigation
 
 #### Starting
-* E12: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
-<!-- * P3: Start -->
+* E12: [Type on Screen II]({{ site.baseurl }}/projects#e12)
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 6](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
